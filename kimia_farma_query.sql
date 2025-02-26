@@ -50,5 +50,3 @@ ORDER BY t.date DESC;
 SELECT * FROM `kimia_farma.base_table`;
 
 
-#Pendapatan Kimia Farma per Tahun
-
