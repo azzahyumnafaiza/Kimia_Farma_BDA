@@ -2,3 +2,4 @@ As a Big Data Analytics Intern at Kimia Farma, my responsibilities will include 
 
 
 For Dashboard Interactive You can visit this link : https://lookerstudio.google.com/s/gyiNtJYVyQA
+For result the table analysis, you can visit this link :  https://docs.google.com/spreadsheets/d/11TmFne2rjBGtYrWoMf_QTSjf9xLmQcNQo-VXiW0KOdM/edit?usp=sharing
